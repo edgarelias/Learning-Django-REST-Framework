@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # own
+    'snippets.apps.SnippetsConfig',
 
     # third party
     'rest_framework',
