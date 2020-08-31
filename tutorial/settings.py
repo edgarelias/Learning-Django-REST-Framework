@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # own
-    'quickstart',
 
     # third party
     'rest_framework',
